@@ -1,0 +1,9 @@
+test\system.o: ..\Core\Src\system.c
+test\system.o: ../Core/Inc/system.h
+test\system.o: ../Core/Inc/stm32f10x.h
+test\system.o: ../Drivers/CMSIS/Include/core_cm3.h
+test\system.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+test\system.o: ../Drivers/CMSIS/Include/cmsis_version.h
+test\system.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+test\system.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+test\system.o: C:\Users\周凯\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h
